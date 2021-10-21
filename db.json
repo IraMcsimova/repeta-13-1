@@ -1,0 +1,46 @@
+{
+  "book": [
+    {
+      "id": 1,
+      "title": "last kingdom",
+      "author": "Fin Heick",
+      "genres": ["adventures"],
+      "rating": 8.36
+    },
+    {
+      "id": 2,
+      "title": "On the beach of the river",
+      "author": "Robert Sheckly",
+      "genres": ["fantasy"],
+      "rating": 8.51
+    },
+    {
+      "id": 3,
+      "title": "Ghosts",
+      "author": "Hovard Lavkraft",
+      "genres": ["scary book"],
+      "rating": 6.36
+    },
+    {
+      "id": 4,
+      "title": "Unknown man",
+      "author": "Franc Kafka",
+      "genres": ["classic"],
+      "rating": 9.36
+    },
+    {
+      "id": 5,
+      "title": "two suns",
+      "author": "Leonid Kudryavcev",
+      "genres": ["fantasy"],
+      "rating": 8.0
+    },
+    {
+      "id": 6,
+      "title": "red road",
+      "author": "Finita Lacomedia",
+      "genres": ["advantures"],
+      "rating": 10.0
+    }
+  ]
+}
